@@ -1,0 +1,27 @@
+name: bioio-env
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.11
+
+  # Core scientific stack
+  - numpy
+  - matplotlib
+  - imageio
+  - tifffile
+  - rich
+
+  # BioIO
+  - bioio
+
+  # Jupyter support
+  - jupyterlab
+  - ipykernel
+
+  # pip-only packages
+  - pip
+  - pip:
+      - "ndv[jupyter,vispy]"
+      - "jupyter-rfb<0.5"
