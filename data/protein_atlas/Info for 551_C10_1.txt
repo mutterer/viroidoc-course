@@ -1,0 +1,71 @@
+551_C10_1_blue.tif
+ImageDescription: <?xml version="1.0" encoding="UTF-8" standalone="no"?><!-- Warning: this comment is an OME-XML metadata block, which contains crucial dimensional parameters and other important metadata. Please edit cautiously (if at all), and back up the original data before doing so. For more information, see the OME-TIFF web site: http://loci.wisc.edu/ome/ome-tiff.html. --><OME xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.openmicroscopy.org/Schemas/OME/2008-09" xmlns:Bin="http://www.openmicroscopy.org/Schemas/BinaryFile/2008-09" xmlns:CA="http://www.openmicroscopy.org/Schemas/CA/2008-09" xmlns:SA="http://www.openmicroscopy.org/Schemas/SA/2008-09" xmlns:SPW="http://www.openmicroscopy.org/Schemas/SPW/2008-09" xmlns:STD="http://www.openmicroscopy.org/Schemas/STD/2008-09" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openmicroscopy.org/Schemas/OME/2008-09 http://www.openmicroscopy.org/Schemas/OME/2008-09/ome.xsd http://www.openmicroscopy.org/Schemas/BinaryFile/2008-09 http://www.openmicroscopy.org/Schemas/BinaryFile/2008-09/BinaryFile.xsd http://www.openmicroscopy.org/Schemas/CA/2008-09 http://www.openmicroscopy.org/Schemas/CA/2008-09/CA.xsd http://www.openmicroscopy.org/Schemas/SPW/2008-09 http://www.openmicroscopy.org/Schemas/SPW/2008-09/SPW.xsd http://www.openmicroscopy.org/Schemas/STD/2008-09 http://www.openmicroscopy.org/Schemas/STD/2008-09/STD.xsd" UUID="urn:uuid:7618b0cf-ba91-11e0-8b64-002481c166e0"><Experiment Type="Other" ID="Experiment:0"><Description>Experiment</Description><ExperimenterRef ID="Experimenter:0"/></Experiment><Experimenter ID="Experimenter:0"><FirstName>Emma</FirstName><LastName>Lundberg</LastName><Email>emma.lundberg@scilifelab.se</Email><Institution>KTH Biotechnology</Institution><OMEName>Emma</OMEName><GroupRef ID="Group:0"/></Experimenter><Group ID="Group:0" Name="HPR IF"><Leader ID="Experimenter:0"/><Contact ID="Experimenter:0"/></Group><Instrument ID="Instrument:0"><Microscope Manufacturer="Leica Microsystems" Model="DM6000 Turret" SerialNumber="5100000974" Type="Unknown"/><LightSource ID="LightSource:6" Manufacturer="Leica Microsystems" Model="Unknown" SerialNumber="" Power="0.999816883354697E1"><Laser Wavelength="633" LaserMedium="Unknown" Type="Unknown"/></LightSource><LightSource ID="LightSource:6" Manufacturer="Leica Microsystems" Model="Unknown" SerialNumber="" Power="0.6000000000000E-1"><Laser Wavelength="0" LaserMedium="unknown" Type="unknown"/></LightSource><Detector ID="Detector:1" Manufacturer="Leica Microsystems" Model="PMT 1" Type="PMT" SerialNumber="" Zoom="0.149999928474460E1" Offset="-0.50000000000000E0" Voltage="0.70689326314183302E3" Gain="0.70689326314183302E3"/><Detector ID="Detector:2" Manufacturer="Leica Microsystems" Model="PMT 2" Type="PMT" SerialNumber=""/><Detector ID="Detector:100" Manufacturer="Leica Microsystems" Model="PMT Trans" Type="PMT" SerialNumber=""/><Objective ID="Objective:0" Manufacturer="Leica Microsystems" Model="HCX PL APO CS  " SerialNumber="11506188"><Correction>UV</Correction><Immersion>Oil</Immersion><LensNA>0.140000000000000E1</LensNA><NominalMagnification>63</NominalMagnification><CalibratedMagnification>0.0</CalibratedMagnification><WorkingDistance>0.0</WorkingDistance></Objective><Filter ID="Filter:0" Type="BandPass" FilterWheel="" LotNumber="" Manufacturer="Leica Microsystems" Model=""><TransmittanceRange CutIn="380" CutInTolerance="0" CutOut="448" CutOutTolerance="0" Transmittance="0.0"/></Filter><Filter ID="Filter:1" Type="BandPass" FilterWheel="" LotNumber="" Manufacturer="Leica Microsystems" Model=""><TransmittanceRange CutIn="550" CutInTolerance="0" CutOut="625" CutOutTolerance="0" Transmittance="0.0"/></Filter></Instrument><Image ID="Image:0" Name="D:\Temp_IF_Prod\551\Subfolder\experiment--2011_07_30_11_51_10\image--X00--Y00--Z00--C01.ome.tif" DefaultPixels="Pixels:0" AcquiredPixels="Pixels:0"><CreationDate>2011-07-30T11:51:20</CreationDate><ExperimenterRef ID="Experimenter:0"/><Description>D:\Temp_IF_Prod\551\Subfolder\experiment--2011_07_30_11_51_10\image--X00--Y00--Z00--C01.ome.tif</Description><ExperimentRef ID="Experiment:0"/><GroupRef ID="Group:0"/><InstrumentRef ID="Instrument:0"/><ObjectiveRef ID="Objective:0" RefractiveIndex="0.151800000000000E1"/><LogicalChannel ID="LogicalChannel:0" Name="" SamplesPerPixel="2" PinholeSize="0.9557131129E-4" PhotometricInterpretation="ColorMap" Mode="Other"><DetectorRef ID="Detector:1" Offset="-0.50000000000000E0" Voltage="0.70689326314183302E3" Gain="0.70689326314183302E3" ReadOutRate="0.122880000000000000000E7"/><ChannelComponent Pixels="Pixels:0" Index="0"/></LogicalChannel><Pixels DimensionOrder="XYZCT" PixelType="uint16" BigEndian="false" SizeX="2048" SizeY="2048" SizeZ="1" SizeC="1" SizeT="1" PhysicalSizeX="0.8012760136786E-1" PhysicalSizeY="0.8012760136786E-1" PhysicalSizeZ="0.0" TimeIncrement="0.0" ID="urn:lsid:loci.wisc.edu:Pixels:ows581"><TiffData FirstC="0" FirstZ="0"><UUID FileName="image--X00--Y00--Z00--C00.ome.tif">urn:uuid:7618b0ce-ba91-11e0-8b64-002481c166e0</UUID></TiffData><TiffData FirstC="1" FirstZ="0"><UUID FileName="image--X00--Y00--Z00--C01.ome.tif">urn:uuid:7618b0cf-ba91-11e0-8b64-002481c166e0</UUID></TiffData><TiffData FirstC="2" FirstZ="0"><UUID FileName="image--X00--Y00--Z00--C02.ome.tif">urn:uuid:7618b0d0-ba91-11e0-8b64-002481c166e0</UUID></TiffData><TiffData FirstC="3" FirstZ="0"><UUID FileName="image--X00--Y00--Z00--C03.ome.tif">urn:uuid:7618b0d1-ba91-11e0-8b64-002481c166e0</UUID></TiffData><Plane TheZ="0" TheT="1" TheC="1"><StagePosition PositionX="0.2190774757229E-1" PositionY="0.2360127209583E-1" PositionZ="0.23842E-9"/></Plane></Pixels></Image><SemanticTypeDefinitions xmlns="http://www.openmicroscopy.org/Schemas/STD/2008-09">
+<SemanticType xmlns="http://www.openmicroscopy.org/Schemas/STD/2008-09" AppliesTo="I" Name="OriginalMetadata"><Label xmlns="http://www.openmicroscopy.org/Schemas/STD/2008-09"/><Element xmlns="http://www.openmicroscopy.org/Schemas/STD/2008-09" DBLocation="ORIGINAL_METADATA.NAME" DataType="string" Name="Name"/><Element xmlns="http://www.openmicroscopy.org/Schemas/STD/2008-09" DBLocation="ORIGINAL_METADATA.VALUE" DataType="string" Name="Value"/></SemanticType>
+</SemanticTypeDefinitions>
+<CustomAttributes xmlns="http://www.openmicroscopy.org/Schemas/CA/2008-09">
+<ScannerSettingRecord Identifier="nAverageLine" Unit="" Description="Line-Average" Data="0" Variant="2" VariantType="3" />
+<FilterSettingRecord ObjectName="AOBS" ClassName="CAotf" Attribute="Intensity" Description="AOBS (0)" Data="0" Variant="100" VariantType="5" />
+<FilterSettingRecord ObjectName="AOBS" ClassName="CAotf" Attribute="Intensity" Description="AOBS (1)" Data="1" Variant="100" VariantType="5" />
+<FilterSettingRecord ObjectName="AOBS" ClassName="CAotf" Attribute="Intensity" Description="AOBS (2)" Data="2" Variant="0" VariantType="5" />
+<FilterSettingRecord ObjectName="AOBS" ClassName="CAotf" Attribute="Intensity" Description="AOBS (3)" Data="3" Variant="0" VariantType="5" />
+<FilterSettingRecord ObjectName="AOBS" ClassName="CAotf" Attribute="Intensity" Description="AOBS (4)" Data="4" Variant="0" VariantType="5" />
+<FilterSettingRecord ObjectName="AOBS" ClassName="CAotf" Attribute="Intensity" Description="AOBS (5)" Data="5" Variant="0" VariantType="5" />
+<FilterSettingRecord ObjectName="AOBS" ClassName="CAotf" Attribute="Intensity" Description="AOBS (6)" Data="6" Variant="0" VariantType="5" />
+<FilterSettingRecord ObjectName="AOBS" ClassName="CAotf" Attribute="Intensity" Description="AOBS (7)" Data="7" Variant="0" VariantType="5" />
+<FilterSettingRecord ObjectName="AOBSLow" ClassName="CAotf" Attribute="Intensity" Description="AOBS (0)" Data="0" Variant="0" VariantType="5" />
+<FilterSettingRecord ObjectName="AOBSLow" ClassName="CAotf" Attribute="Intensity" Description="AOBS (1)" Data="1" Variant="0" VariantType="5" />
+<FilterSettingRecord ObjectName="AOBSLow" ClassName="CAotf" Attribute="Intensity" Description="AOBS (2)" Data="2" Variant="0" VariantType="5" />
+<FilterSettingRecord ObjectName="AOBSLow" ClassName="CAotf" Attribute="Intensity" Description="AOBS (3)" Data="3" Variant="0" VariantType="5" />
+<FilterSettingRecord ObjectName="AOBSLow" ClassName="CAotf" Attribute="Intensity" Description="AOBS (4)" Data="4" Variant="0" VariantType="5" />
+<FilterSettingRecord ObjectName="AOBSLow" ClassName="CAotf" Attribute="Intensity" Description="AOBS (5)" Data="5" Variant="0" VariantType="5" />
+<FilterSettingRecord ObjectName="AOBSLow" ClassName="CAotf" Attribute="Intensity" Description="AOBS (6)" Data="6" Variant="0" VariantType="5" />
+<FilterSettingRecord ObjectName="AOBSLow" ClassName="CAotf" Attribute="Intensity" Description="AOBS (7)" Data="7" Variant="0" VariantType="5" />
+<FilterSettingRecord ObjectName="Visible AOTF-7" ClassName="CAotf" Attribute="Intensity" Description="AOTF (458)" Data="458" Variant="0" VariantType="5" />
+<FilterSettingRecord ObjectName="Visible AOTF-7" ClassName="CAotf" Attribute="Intensity" Description="AOTF (476)" Data="476" Variant="0" VariantType="5" />
+<FilterSettingRecord ObjectName="Visible AOTF-7" ClassName="CAotf" Attribute="Intensity" Description="AOTF (488)" Data="488" Variant="20.0024415552707" VariantType="5" />
+<FilterSettingRecord ObjectName="Visible AOTF-7" ClassName="CAotf" Attribute="Intensity" Description="AOTF (496)" Data="496" Variant="0" VariantType="5" />
+<FilterSettingRecord ObjectName="Visible AOTF-7" ClassName="CAotf" Attribute="Intensity" Description="AOTF (514)" Data="514" Variant="0" VariantType="5" />
+<FilterSettingRecord ObjectName="Visible AOTF-7" ClassName="CAotf" Attribute="Intensity" Description="AOTF (543)" Data="543" Variant="0" VariantType="5" />
+<FilterSettingRecord ObjectName="Visible AOTF-7" ClassName="CAotf" Attribute="Intensity" Description="AOTF (633)" Data="633" Variant="0" VariantType="5" />
+<FilterSettingRecord ObjectName="Visible AOTF-7Low" ClassName="CAotf" Attribute="Intensity" Description="AOTF (458)" Data="458" Variant="0" VariantType="5" />
+<FilterSettingRecord ObjectName="Visible AOTF-7Low" ClassName="CAotf" Attribute="Intensity" Description="AOTF (476)" Data="476" Variant="0" VariantType="5" />
+<FilterSettingRecord ObjectName="Visible AOTF-7Low" ClassName="CAotf" Attribute="Intensity" Description="AOTF (488)" Data="488" Variant="0" VariantType="5" />
+<FilterSettingRecord ObjectName="Visible AOTF-7Low" ClassName="CAotf" Attribute="Intensity" Description="AOTF (496)" Data="496" Variant="0" VariantType="5" />
+<FilterSettingRecord ObjectName="Visible AOTF-7Low" ClassName="CAotf" Attribute="Intensity" Description="AOTF (514)" Data="514" Variant="0" VariantType="5" />
+<FilterSettingRecord ObjectName="Visible AOTF-7Low" ClassName="CAotf" Attribute="Intensity" Description="AOTF (543)" Data="543" Variant="0" VariantType="5" />
+<FilterSettingRecord ObjectName="Visible AOTF-7Low" ClassName="CAotf" Attribute="Intensity" Description="AOTF (633)" Data="633" Variant="0" VariantType="5" />
+<FilterSettingRecord ObjectName="Excitation FW UV" ClassName="CFilterWheel" Attribute="Filter" Description="Excitation FW UV" Data="0" Variant="ND 3" VariantType="8" />
+<FilterSettingRecord ObjectName="Polarization FW" ClassName="CFilterWheel" Attribute="Filter" Description="Polarization FW" Data="0" Variant="Notchfilter 488/561/633" VariantType="8" />
+<FilterSettingRecord ObjectName="Target Slider" ClassName="CFilterWheel" Attribute="Filter" Description="Target Slider" Data="0" Variant="Target Park " VariantType="8" />
+<FilterSettingRecord ObjectName="UV Lens FW" ClassName="CFilterWheel" Attribute="Filter" Description="UV Lens FW" Data="0" Variant="Lens 63x/1.4 Oil " VariantType="8" />
+</CustomAttributes>
+<StructuredAnnotations xmlns="http://www.openmicroscopy.org/Schemas/SA/2008-09"/></OME>
+
+--------------------------------------------
+(Fiji Is Just) ImageJ 2.9.0/1.53t; Java 1.8.0_322 [64-bit]; Linux 5.19.0-40-generic; 107MB of 20529MB (<1%)
+ 
+Title: 551_C10_1.tif
+Width:  2048 pixels
+Height:  2048 pixels
+Depth:  1 pixels
+Size:  24MB
+Voxel size: 1x1x1 pixel^3
+ID: -3
+Bits per pixel: 16 (unsigned)
+Display ranges
+  1: 0-65535
+  2: 0-65535
+  3: 0-65535
+Image: 1/3 (551_C10_1_blue)
+  Channels: 3
+  Composite mode: "composite"
+No threshold
+Magnification: 0.50
+ScaleToFit: false
+Uncalibrated
+Path: /home/dallavem/Documents/igbmc/outreach/rtmfm_python_image_analysis/data/protein_atlas/551_C10_1.tif
+Screen location: 394,272 (2560x1440)
+Coordinate origin:  0,0,0
+No properties
+No overlay
+No selection
